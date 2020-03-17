@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpiephei.jaclynhatch.design/sitemap.xml
